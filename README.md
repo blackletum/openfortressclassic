@@ -1,6 +1,8 @@
-# openfortressclassic
-A compiled version of the last public Open Fortress code before it went closed source in July 2020. This allows you to play the game alongside modern O.F.
 
+# Open Fortress Classic
+
+A compiled version of the last public Open Fortress code before it went closed source in July 2020. This allows you to play the game alongside modern O.F.
+![logo](https://i.imgur.com/Kxw0t1E.png)
 
 Based on the code from this repo:
 https://github.com/blackletum/Open-Fortress-Legacy-Binaries
